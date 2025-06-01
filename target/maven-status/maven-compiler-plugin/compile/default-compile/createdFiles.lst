@@ -1,0 +1,12 @@
+org/example/movielens/MoviesGenreJoin$MoviesMapper.class
+org/example/movielens/MoviesGenreJoin.class
+org/example/movielens/MoviesGenreJoin$RatingsUsersMapper.class
+org/example/movielens/RatingsUsersJoin$JoinReducer.class
+org/example/movielens/GenreAgeAvg$AvgMapper.class
+org/example/movielens/RatingsUsersJoin.class
+org/example/movielens/RatingsUsersJoin$RatingsMapper.class
+org/example/movielens/GenreAgeAvg$AvgReducer.class
+org/example/movielens/RatingsUsersJoin$UsersMapper.class
+org/example/movielens/GenreAgeAvg.class
+org/example/movielens/App.class
+org/example/movielens/MoviesGenreJoin$JoinReducer.class
