@@ -149,7 +149,7 @@ You should see Maven's version information.
 
 #### **Download MovieLens Data**
 
-- Download the dataset from [MovieLens](https://grouplens.org/datasets/movielens/).
+- Download the dataset from [MovieLens]([https://grouplens.org/datasets/movielens/](https://files.grouplens.org/datasets/movielens/ml-1m.zip )).
 - Extract `ratings.dat`, `users.dat`, and `movies.dat` on your Windows system.
 
 #### **Move Input Files from Windows to WSL**
